@@ -1,0 +1,6 @@
+{
+  "name": "SkillSwap",
+  "description": "An AI-powered skill exchange platform with time credits and compatibility matching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
